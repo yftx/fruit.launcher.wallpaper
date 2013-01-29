@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpapers</string>
+    <string name="pick_wallpaper">Select Wallpaper</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="online_wallpaper">Online Wallpapers</string>
+    <string name="is_setting">Setting&#8230;</string>
+    <string name="finish_setting">Finish setting</string>
+</resources>

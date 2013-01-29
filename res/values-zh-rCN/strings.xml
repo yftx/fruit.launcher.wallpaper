@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">壁纸随心换</string>
+    <string name="pick_wallpaper">选择壁纸</string>
+    <string name="wallpaper_instructions">设置壁纸</string>
+    <string name="online_wallpaper">免费在线壁纸</string>
+    <string name="is_setting">正在设置&#8230;</string>
+    <string name="finish_setting">设置完成</string>
+</resources>
